@@ -1,0 +1,8 @@
+{
+  "firebase": {
+    "projectId": "madlyradlabs",
+    "databaseURL": "https://madlyradlabs.firebaseio.com",
+    "storageBucket": "madlyradlabs.appspot.com",
+    "locationId": "us-central"
+  }
+}
